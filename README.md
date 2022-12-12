@@ -23,23 +23,23 @@ How to Run:
 
 The file sentiment analysis in the intro2python folder contains the script necessary to run the application. Functions needed to run the file are saved in and imported. The functions, and applications necessary for download are as follows;
 
-Sentiment Analyzers 
-HappyTransformer
-Flair_Analysis
-HuggingFace_Bertweet
-TextBlob_Analysis
-Vadar_Analysis 
+Sentiment Analyzers: 
+HappyTransformer,
+Flair_Analysis,
+HuggingFace_Bertweet,
+TextBlob_Analysis,
+Vadar_Analysis, 
 
-Import  
-pandas
-Openpyxl
-TextClassifier
-NLTK_data - Vadar_Lexicon
-Senten
-Split_Single
-HappyTextClassificiation 
-F1_score
-Accuracy Score
+Import:  
+pandas,
+Openpyxl,
+TextClassifier,
+NLTK_data - Vadar_Lexicon,
+Senten,
+Split_Single,
+HappyTextClassificiation, 
+F1_score,
+Accuracy Score,
 
 
 
