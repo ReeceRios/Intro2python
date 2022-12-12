@@ -21,7 +21,7 @@ Our script had a total of six functions; 5 NLP models for sentiment andalysis an
 
 How to Run:
 
-The file sentiment analysis in the intro2python folder contains the script necessary to run the application. Functions needed to run the file are saved in and imported. The functions, and applications necessary for download are as follows;
+The file sentiment analysis in the intro2python folder contains the script necessary to run the application. Functions needed to run the file are saved and imported. The functions, and applications necessary for download are as follows;
 
 Sentiment Analyzers: 
 HappyTransformer,
