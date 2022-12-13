@@ -70,5 +70,5 @@ Collecting more data, and working towards tuning the model would aid further in 
 
 Authors:
 
-Anna Morhon, Irene Quadrelli, Maurice Rios
+Anna Mohon, Irene Quadrelli, Maurice Rios
 
