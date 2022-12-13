@@ -40,13 +40,14 @@ Vadar_Analysis,( Valence Aware Dictionary for Sentiment Reasoning) is a model us
 
 Import: 
 
-pandas,import pandas as pd 
+    pandas,import pandas as pd 
 
-import pandas as pd
-from transformers import pipeline
+    import pandas as pd
+    from transformers import pipeline
 
-import pandas as pd
+    import pandas as pd
     import openpyxl
+    
     import flair
     from flair.models import TextClassifier
     from flair.data import Sentence
@@ -61,7 +62,7 @@ import pandas as pd
     nltk.download("vader_lexicon") 
     
     from sklearn.metrics import f1_score, accuracy_score
-from xlsxwriter import Workbook
+    from xlsxwriter import Workbook
 
 Possible future improvements and extensions:
 
