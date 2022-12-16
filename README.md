@@ -28,7 +28,7 @@ Results:
 
 ![image](https://user-images.githubusercontent.com/113826312/207464990-6ba90197-ec54-4513-8763-5129841ccc25.png)
 
-<img src="https://user-images.githubusercontent.com/113826312/207464990-6ba90197-ec54-4513-8763-5129841ccc25.png" width="300" height="150">
+<img src="https://user-images.githubusercontent.com/113826312/207464990-6ba90197-ec54-4513-8763-5129841ccc25.png" width="500" height="250">
 
 Sentiment Analyzers: 
 
