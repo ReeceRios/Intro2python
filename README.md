@@ -26,7 +26,7 @@ The file sentiment analysis in the intro2python folder contains the script neces
 
 Results:
 
-![image](https://user-images.githubusercontent.com/113826312/207464990-6ba90197-ec54-4513-8763-5129841ccc25.png | width=100)
+![image](https://user-images.githubusercontent.com/113826312/207464990-6ba90197-ec54-4513-8763-5129841ccc25.png 250x250)
 
 
 Sentiment Analyzers: 
