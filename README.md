@@ -41,7 +41,7 @@ The file [Sentiment_Analysis_Hertie_Work](https://github.com/ReeceRios/Intro2pyt
 
 ## Install: 
 
-    pip install transformers flair happytransformer xlsxwriter 
+    !pip install transformers flair happytransformer xlsxwriter 
 
 ## Import: 
 
