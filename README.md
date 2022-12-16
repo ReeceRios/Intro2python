@@ -31,12 +31,16 @@ Results:
 
 Sentiment Analyzers: 
 
-HappyTransformer,  is an package built on top of Hugging Face's transformer library that makes it easy to utilize state-of-the-art NLP models
-#pip install transformers flair happytransformer
+* HappyTransformer: a package built on top of Hugging Face's transformer library that makes it easy to utilize state-of-the-art NLP models
+
 Flair_Analysis, allows you to apply our state-of-the-art natural language processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.
 HuggingFace_Bertweet, BERTweet is the first public large-scale language model pre-trained for English Tweets. BERTweet is trained based on the RoBERTa pre-training procedure. The corpus used to pre-train BERTweet consists of 850M English Tweets (16B word tokens ~ 80GB)
 TextBlob_Analysis, extblob is a Python NLP library that uses a natural language toolkit (NLTK). It uses NLTK because it is simple, easy to deploy, will use up fewer resources, gives dependency parsing, and can be used even for small applications
 Vadar_Analysis,( Valence Aware Dictionary for Sentiment Reasoning) is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion. It is available in the NLTK package and can be applied directly to unlabeled text data.
+
+Install: 
+
+#pip install transformers flair happytransformer xlsxwriter 
 
 Import: 
 
